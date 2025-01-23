@@ -40,9 +40,11 @@ If you have any feedback, suggestions, or just want to connect, feel free to rea
 
 Email: hrudanandarauta@gmail.com
 LinkedIn: Hrudananda Rauta
+
 ⭐ Acknowledgments
 Special thanks to the online resources and communities that helped me learn and improve my skills.
 Inspired by countless developers sharing their portfolios online.
+
 📌 Note
 This is a work-in-progress project. I’m continuously improving and adding new features. Stay tuned for updates!
 
