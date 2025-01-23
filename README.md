@@ -39,6 +39,7 @@ This portfolio website was created to:
 If you have any feedback, suggestions, or just want to connect, feel free to reach out!
 
 Email: hrudanandarauta@gmail.com
+
 LinkedIn: Hrudananda Rauta
 
 ⭐ Acknowledgments
